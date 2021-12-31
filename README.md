@@ -9,3 +9,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I worked 20 plus years in Restaurant management before i decided to start learning code.
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=salsandoval&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
