@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on An amzing company
 - 🤔 I’m looking for help with Finding a career
 - 💬 Ask me about Any tech related stuff
-- 📫 How to reach me: Email - Salsandoval39@gmail.com or salsandovalportfolio.com
+- 📫 How to reach me: Email - Salsandoval39@gmail.com or @salsandovalportfolio.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I worked 20 plus years in Restaurant management before i decided to start learning code.
 -->
